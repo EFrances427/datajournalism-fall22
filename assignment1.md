@@ -1,0 +1,15 @@
+https://whro.org/news/local-news/15325-millions-left-on-the-table-some-eastern-virginia-cities-aren-t-taking-advantage-of-a-program-that-lower-flood-insurance-rates
+Clarity and accuracy:
+  The article is organized in a way that is easy to follow but lacks excitement. Besides the absence of pizzazz, the report has four distinct sections (including the intro), and each has background and implications of why a decrease in funding and support for CRS will be costly for people living in commonly flooded areas. Lastly, the article uses data to support claims made by residents in eastern Virginia and does not confuse the reader with too much information at once.
+  For the central insight, I think the narrative-style introduction takes too long to deliver the real news. The reader doesn't find out insurance rates will be rising until the fourth graf, and I think the reporter should have taken less space with the scene-setter. I would give this category a 4.
+  There were no data visualization elements, though the photos did a satisfactory job with communicating the need for affordable flood insurance. The reporter also included hyperlinks to FEMA data and other related information, further assisting the reader in understanding the impact of the news.
+  I would give accuracy a 5 for this article. Most of the data is from FEMA or other government sources, and the interview subjects were experts in the field as well as primary sources of the issue at hand. Implications of flooding and insurance going up is supported and explained through data and firsthand accounts.
+
+Quality:
+  Despite a seemingly clear and accurate story, the presentation feels lackluster. I believe the article would have benefitted from an interactive piece or graphs displaying data to help readers fully immerse themselves into this issue. The simplicity potentially helps a reader understand more quickly with reduced distractions, but I think a more interesting style and use of color, graphics and potentially embedded video could make the read more interesting. I would give quality a 2.
+
+Type and color:
+  Without any interactive elements, type and color are also severely lacking. Bolded fonts are used to separate the sections and hyperlinked text is colored blue, a standard for web production. There are no elements that would catch the reader's eyes, and one can simply scan down the page without registering much of the information. Even the photos are a bit dull and look staged, resulting in a 1 for both type and color.
+
+Creativity:
+  All in all, I would give the creativity of this report a 1. As mentioned before, nothing jumps out at the reader. I believe with embedded videos, better photos and a couple of graphs displaying data, a reader would have a much more informative and exciting time reading this article. It feels like the reporter submitted their story and it was posted without much thought for the design elements. The information is there, the reporter or web designer would just have to put in the effort to make the story a more interesting read. 
