@@ -1,1 +1,1 @@
-![Cocoa bean exports (in tonnes)](https://github.com/EFrances427/datajournalism-fall23/assets/146783169/8b9f8a08-ed02-4d8b-aecf-34a9f2a3751d)
+![Cocoa bean imports (in tonnes)](https://github.com/EFrances427/datajournalism-fall23/assets/146783169/f2c98498-3af7-4128-bb5b-f8cae113a17e)
