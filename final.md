@@ -1,8 +1,7 @@
 # Final Project
 Link: https://docs.google.com/document/d/10b6MXB4OTckT_VPNyIAMgeKNBygKN08QwCAtNnhHcVw/edit
-Google doc link
 
-### Background / findings
+# Background / findings
 Redistricting in Virginia led to off-year elections for seats in the State House and Senate last month, ultimately ending with Democrats taking complete control of the state legislature. Before this, Republicans held a 52-48 majority in the House while Democrats already controlled the Senate. After flipping the House, Democrats now hold a 51-49 majority, thwarting Republican Gov. Glenn Youngkin’s plan for a Republican trifecta in the state legislature and ruining the Republican agenda.
 
 ## Virginia House of Delegates party breakdown
@@ -29,10 +28,10 @@ Michael Feggans was the Democratic candidate from district 97 and Joshua Cole wa
 
 While redistricting is probably part of the reason why Democrats were able to flip so many House seats, campaigning on those unofficial ballot issues may have also been significant. The unofficial issues, especially abortion, may be meaningful predictors for how Democrats could win the 2024 presidential election and what candidates will probably campaign on. Additionally, looking at the issues in the competitive House districts that Democrats flipped and how candidates campaigned on these issues may also be predictive for the election next year.
 
-# PROPOSED NUT GRAF
+## PROPOSED NUT GRAF
 Democrats flipped the House of Delegates and won numerous seats that were previously Republican-controlled, including a couple districts that new district lines made competitive. Several issues claimed an unofficial spot on the ballot, including abortion access, which is a national issue that may be predictive of what voters will see in the upcoming 2024 presidential elections and how candidates, especially Democrats, plan to campaign on the issue.
 
-# Plans for story format
+## Plans for story format
 Reporting
 Possible sources / interviews
 District 97 Democratic candidate Michael Feggans
@@ -49,7 +48,7 @@ Voters, especially competitive districts We would ask voters what issues mattere
 Potential story structure
 Lede with Democrats taking control of Virginia state legislature, flipping the House PROPOSED NUT GRAF: Democrats flipped the House of Delegates and won numerous seats that were previously Republican-controlled, including District 97 and District 65, two districts that became competitive after redistricting. Several issues claimed an unofficial spot on the ballot, including abortion access, which is a national issue that may be predictive of what voters will see in the upcoming 2024 presidential elections and how candidates, especially Democrats, plan to campaign on the issue. Expert quote about significance of issues for 2024 election – especially the significance for Democrats Party breakdown data viz Talk about congressional map prior to redistricting – data viz of 2021 results New competitive districts Voter quote about feelings on new district lines Districts that flipped (especially competitive districts) Democratic this past November – data viz of 2023 results Issues that drove voters this past November Significance of virginia election for 2024 election Hyperlink other reports about this Expert quote about significance Talk about issues that drove voters this election that may also be considered for 2024 election Voter quote on issues that mattered Expert quote on issues that may hold significance for voters in 2024 election
 
-# Data analysis process
+## Data analysis process
 Redistricting in Virginia created new swing districts, but since this past November election was the first election using the new district lines, we knew that there wouldn’t be a ton of detailed reports and visualizations comparing the last House of Delegates election in 2021 to the one this year.
 
 We started by looking at the Virginia Public Access Project and Ballotpedia to see the results for the 2023 election. We confirmed the results with the Virginia Department of Elections.
@@ -60,7 +59,7 @@ Finally, to make the story more readable, we wanted to add two pie charts showin
 
 We had to manually put the data from VPAP into an Excel spreadsheet. From there, we put the data into datawrapper.
 
-# Other possible visualizations
+## Other possible visualizations
 Map highlighting seven competitive districts in newly redistricted map
 Map of competitive districts that flipped to Democrat
 Visualization (map) comparing Democratic-flipped competitive Districts 65 and 97 from 2021 versus 2023
