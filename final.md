@@ -2,7 +2,7 @@
 Link: https://docs.google.com/document/d/10b6MXB4OTckT_VPNyIAMgeKNBygKN08QwCAtNnhHcVw/edit
 
 # Background / findings
-Redistricting in Virginia led to off-year elections for seats in the State House and Senate last month, ultimately ending with Democrats taking complete control of the state legislature. Before this, Republicans held a 52-48 majority in the House while Democrats already controlled the Senate. After flipping the House, Democrats now hold a 51-49 majority, thwarting Republican Gov. Glenn Youngkin’s plan for a Republican trifecta in the state legislature and ruining the Republican agenda.
+Redistricting in Virginia led to off-year elections for seats in the State House and Senate last month, ultimately ending with Democrats taking complete control of the state legislature. Before this, Republicans [held](https://www.vpap.org/electionresults/20211102/house/) a 52-48 majority in the House while Democrats already controlled the Senate. After flipping the House, Democrats now hold a 51-49 majority, thwarting Republican Gov. Glenn Youngkin’s plan for a Republican trifecta in the state legislature and ruining the Republican agenda.
 
 ## Virginia House of Delegates party breakdown
 
